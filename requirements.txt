@@ -1,0 +1,1 @@
+pandas\nnumpy\nopencv-python\nscikit-learn\npdfplumber\npytest\npdf2image\npython-docx\nfpdf
